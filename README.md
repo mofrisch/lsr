@@ -9,7 +9,7 @@ Lists directory entry names (one per line), sorted. Defaults to the current dire
 ## Build & run
 
 ```bash
-cd docs/rust-ls   # or the absolute path to this folder
+cd rust/lsr   # or the absolute path to this folder
 cargo build
 cargo run
 cargo run -- /tmp
